@@ -1,4 +1,4 @@
-# https://gnyf0915.github.io/TFP_WEB/
+# https://genyf.github.io/TFP_WEB/
 
 아주대학교 영어2 글쓰기 과제로 작성된 웹 사이트 입니다.
 
